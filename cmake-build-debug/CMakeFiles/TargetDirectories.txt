@@ -1,0 +1,3 @@
+/home/jameeshahriyar/Projects/New_Projects/cpp/BookshopManagementSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jameeshahriyar/Projects/New_Projects/cpp/BookshopManagementSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jameeshahriyar/Projects/New_Projects/cpp/BookshopManagementSystem/cmake-build-debug/CMakeFiles/BookshopManagementSystem.dir

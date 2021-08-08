@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/BookshopManagementSystem.dir/main.cpp.o -o BookshopManagementSystem 

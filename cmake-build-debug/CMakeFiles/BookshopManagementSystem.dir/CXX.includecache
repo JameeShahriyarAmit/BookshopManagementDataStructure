@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jameeshahriyar/Projects/New_Projects/cpp/BookshopManagementSystem/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+iomanip
+-
+
